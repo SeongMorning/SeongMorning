@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **improving my skills in Frontend and Backend development**  
 - 🌱 I’m learning **React, Next.js, Nest.js, Algorithms**  
 - 💬 Ask me about **Frontend development, Backend integration, or problem-solving in algorithms**  
-- 📫 How to reach me: [jeonsm22@daum.net](mailto:jeonsm22@daum.net)  
+- 📫 How to reach me: [jeonsm999@naver.com](mailto:jeonsm999@naver.com)  
 - ⚡ Fun fact: **Always curious to learn and explore new technologies!**
 
 ---
