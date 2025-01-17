@@ -48,4 +48,4 @@
 ---
 
 ### 📈 GitHub Stats
-![jeonsm22's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonsm22&show_icons=true&theme=radical)
+![SeongMorning's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongMorning&show_icons=true&theme=radical)
